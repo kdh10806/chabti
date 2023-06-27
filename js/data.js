@@ -1,7 +1,7 @@
 export const questions = [
     {
         number: '01',
-        question: '어? 이 차 관심있었는데 인터넷에선 평이 안좋네...<br>어떡하지?',
+        question: '어? 이 차 관심있었는데 인터넷에선<br>평이 안좋네... 어떡하지?',
         choices: [
             { text: '일단 전시장 방문해서 시승해보자!', value: 's' },
             { text: '알빠야? 내가 맘에 드는데?<br>바로 계약금 걸어!', value: 'n' }
@@ -9,10 +9,10 @@ export const questions = [
     },
     {
         number: '02',
-        question: '목적지 위치가 애매해서 차를 타고 가야겠어.<br>주차장이 있나?',
+        question: '위치가 애매해서 차를 타고 가야겠어.<br>주차장이 있나?',
         choices: [
             { text: '주차장 앱을 켜서 최저가 주차장을 찾아본다.', value: 'j' },
-            { text: '에이 주차장 하나 없겠어?<br>바로 키를 챙긴다.', value: 'p' }
+            { text: '에이~ 주차장 하나 없겠어?<br>바로 키를 챙긴다.', value: 'p' }
         ]
     },
     {
@@ -67,8 +67,8 @@ export const questions = [
         number: '09',
         question: '드디어 내 드림카 OOO를 구매하게 되었다!<br>나는...',
         choices: [
-            { text: '공식홈페이지에서 옵션표 좌라락 뽑아서 완벽한 조합을 짜놓고<br>구매방식까지 비교분석후 당당히 전시장 입성.', value: 'j' },
-            { text: '일단 전시장에 간다<br>딜러와의 마라톤 미팅 후에 계약서에 사인한다.', value: 'p' }
+            { text: '옵션표 좌라락 뽑아서 완벽한 조합을 짜놓고<br>구매방식까지 분석후 당당히 전시장 입성.', value: 'j' },
+            { text: '일단 전시장에 간다.<br>딜러와의 마라톤 미팅 후에 계약서에 사인한다.', value: 'p' }
         ]
     },
     {
@@ -81,9 +81,9 @@ export const questions = [
     },
     {
         number: '11',
-        question: '무엇이 떠오르시나요?',
+        question: '뱀을 보면 무엇이 떠오르시나요?',
         choices: [
-            { text: '엥? 뱀이네.', value: 's' },
+            { text: '뱀이 뱀이지 뭐긴.', value: 's' },
             { text: '쉘비 코브라... 닷지 바이퍼... 알파로메오...<br>아! 그건 용인가?', value: 'n' }
         ]
     },
