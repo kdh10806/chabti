@@ -1,0 +1,48 @@
+.progress {
+    max-width: 500px;
+    height: 20px;
+    background-color: gray;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    margin-bottom: 60px;
+}
+.progress .value {
+    width: 8.4%;
+    height: 20px;
+    background-color: #FFB103;
+    border-radius: 10px;
+    transition: 0.2s;
+}
+.question-box {
+    background-color: #FFFFFF;
+    max-width: 420px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    box-shadow: 0 4px 25px #DDE2E8
+}
+.question-box .number {
+    font-size: 60px;
+    font-weight: 900;
+    text-align: center;
+    color: #FFB103;
+    margin-bottom: 30px;
+}
+.question-box .question {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1.5;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.question-box .choice {
+    border-radius: 120px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 1.5;
+}
