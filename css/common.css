@@ -5,6 +5,9 @@ body {
     padding-top: 80px;
     padding-bottom: 80px;
 }
+img {
+    display: block;
+}
 
 .page-title {
     font-size: 50px;
@@ -58,7 +61,7 @@ body {
 }
 .btn-gray {
     background-color: #44484b4b;
-    box-shadow: 0 14px 0 #414648;
+    box-shadow: 0 14px 0 #444444;
     color: #444444;
 }
 .btn-gray:active {
