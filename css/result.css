@@ -1,0 +1,93 @@
+body {
+    background-color: #F6FCFF;
+}
+.page-title {
+    font-size: 40px;
+}
+.car-image {
+    width: 100%;
+    max-width: 500px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
+.result {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.result .box {
+    min-height: 70px;
+    background-color: #FFFFFF;
+    margin-bottom: 15px;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.4;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.result h3 {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1.4;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.result .box .mbti-result {
+    font-size: 20px;
+    font-weight: 700px;
+    line-height: 1.8;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.result .passangersInfos {
+    height : 70px;
+    display: flex;
+    gap: 10px;
+}
+.result .passangersInfo {
+    flex : 1;
+    /* flex-grow:1; flex-shrink:1; flex-basis:0%  */
+    background-color: #FFFFFF;
+    background-position: center center;
+    background-repeat: no-repeat;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1.4;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid #FFA32D;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+.result .passangers {
+    height: 150px;
+    display: flex;
+    gap: 10px;
+}
+.result .passanger {
+    flex : 1;
+    height: 100px;
+    background-color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1.4;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #444444;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
