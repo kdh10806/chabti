@@ -75,7 +75,7 @@ function makeMbti(tempMbti) {
 }
 
 function showResult() {
-    location.href = '/result.html?mbti=' + mbti
+    location.href = '/chabti/result.html?mbti=' + mbti
 }
 
 choice1El.addEventListener('click', function() {
