@@ -100,7 +100,7 @@ export const results = [
     {
         // mbti: 'ESTP',
         title: '신박한게 좋아!<br>자동차 얼리어답터',
-        carimage: '../images/plaid.png',
+        carimage: '../chabti/images/plaid.png',
         car: '테슬라 모델S 플래드',
         options: '요크핸들, FSD, 팔콘윙도어, 디지털 사이드미러...<br>기타등등 수만가지 최신 옵션',
         results:
@@ -113,7 +113,7 @@ export const results = [
     {
         // mbti: 'ISTP',
         title: '과...관성 드리프트?!<br>드라이빙 마스터',
-        carimage: '../images/m4.png',
+        carimage: '../chabti/images/m4.png',
         car: 'BMW M4',
         options: '후륜구동',
         results:
@@ -126,7 +126,7 @@ export const results = [
     {
         // mbti: 'ESFP',
         title: '가솔린과 컨버터블만 있다면 어디든 갈 수 있어.<br>낭만 드라이버',
-        carimage: '../images/roma.png',
+        carimage: '../chabti/images/roma.png',
         car: '페라리 로마 스파이더',
         options: '머리위로 펼쳐진 하늘',
         results:
@@ -139,7 +139,7 @@ export const results = [
     {
         // mbti: 'ISFP',
         title: '그럴 수 있지~<br>도로위의 성인군자',
-        carimage: '../images/s90.png',
+        carimage: '../chabti/images/s90.png',
         car: '볼보 S90',
         options: '핸들과 가까이 있는 비상등 스위치',
         results:
@@ -152,7 +152,7 @@ export const results = [
     {
         // mbti: 'ESTJ',
         title: '귀찮으니깐 끝판왕 하나만 주세요.<br>엄격한 귀차니스트',
-        carimage: '../images/sclass.png',
+        carimage: '../chabti/images/sclass.png',
         car: '메르세데스 벤츠 S 클래스',
         options: '애플 카플레이, 안드로이드 오토',
         results:
@@ -165,7 +165,7 @@ export const results = [
     {
         // mbti: 'ISTJ',
         title: '원 리 원 칙<br>FM 드라이버',
-        carimage: '../images/911gt3.png',
+        carimage: '../chabti/images/911gt3.png',
         car: '포르쉐 911 GT3',
         options: '칼같은 핸들링',
         results:
@@ -178,7 +178,7 @@ export const results = [
     {
         // mbti: 'ESFJ',
         title: '제가 모시겠습니다.<br>사교적인 드라이버',
-        carimage: '../images/vclass.png',
+        carimage: '../chabti/images/vclass.png',
         car: '메르세데스 벤츠 V 클래스',
         options: '넓고 편안한 실내공간',
         results:
@@ -191,7 +191,7 @@ export const results = [
     {
         // mbti: 'ISFJ',
         title: '꽉 찬 트렁크는 연비에 좋지 않습니다. 그런데 꼭 필요한.<br>맥시멀리스트 드라이버',
-        carimage: '../images/escalade.png',
+        carimage: '../chabti/images/escalade.png',
         car: '캐딜락 에스컬레이드 ESV',
         options: '광활한 트렁크',
         results:
@@ -204,7 +204,7 @@ export const results = [
     {
         // mbti: 'ENTJ',
         title: '오늘은 저 산을 정복해볼까?<br>열정적인 리더 드라이버',
-        carimage: '../images/grenadier.png',
+        carimage: '../chabti/images/grenadier.png',
         car: '이네오스 그레나디어',
         options: '강력한 4X4 구동계',
         results:
@@ -216,7 +216,7 @@ export const results = [
     {
         // mbti: 'INTJ',
         title: '남들 시선 알빠야?<br>마이웨이 드라이버',
-        carimage: '../images/rs6.png',
+        carimage: '../chabti/images/rs6.png',
         car: '아우디 RS6 아반트',
         options: '남들과는 다른 스타일',
         results:
@@ -229,7 +229,7 @@ export const results = [
     {
         // mbti: 'ENTP',
         title: '음... 그래요? 그런데 저는 좀 다르게 생각해요.<br>혁명적인 드라이버',
-        carimage: '../images/huracan.png',
+        carimage: '../chabti/images/huracan.png',
         car: '람보르기니 우라칸 스테라토',
         options: '오프로드를 갈 수 있는 슈퍼카',
         results:
@@ -242,7 +242,7 @@ export const results = [
     {
         // mbti: 'INTP',
         title: '논리, 분석, 사고.<br>너드 드라이버',
-        carimage: '../images/gtr.png',
+        carimage: '../chabti/images/gtr.png',
         car: '닛산 GT-R 니스모',
         options: '제로백, 랩타임, 기타등등 수치들을 보여주는 온보드 컴퓨터,<br>조절식 서스펜션',
         results:
@@ -255,7 +255,7 @@ export const results = [
     {
         // mbti: 'ENFJ',
         title: '부들부들... 불의를 보면 참을 수 없다.<br>정의로운 드라이버',
-        carimage: '../images/polestar2.png',
+        carimage: '../chabti/images/polestar2.png',
         car: '폴스타 2',
         options: '친환경 재생 소재를 많이 쓴 인테리어',
         results:
@@ -268,7 +268,7 @@ export const results = [
     {
         // mbti: 'INFJ',
         title: '겉은 차갑지만 속은 따뜻한.<br>사색적인 드라이버',
-        carimage: '../images/xc60.png',
+        carimage: '../chabti/images/xc60.png',
         car: '볼보 XC60',
         options: '편안한 인테리어, 좋은 오디오 시스템',
         results:
@@ -281,7 +281,7 @@ export const results = [
     {
         // mbti: 'ENFP',
         title: '인생은 즐겁게!<br>흥부자 드라이버',
-        carimage: '../images/bentayga.png',
+        carimage: '../chabti/images/bentayga.png',
         car: '벤틀리 벤테이가',
         options: '빵빵한 스피커, 독특한 색상',
         results:
@@ -294,7 +294,7 @@ export const results = [
     {
         // mbti: 'INFP',
         title: '난 나만의 길을 간다.<br>독고다이 드라이버',
-        carimage: '../images/mc20.png',
+        carimage: '../chabti/images/mc20.png',
         car: '마세라티 MC20',
         options: '2인승, 희소성',
         results:
